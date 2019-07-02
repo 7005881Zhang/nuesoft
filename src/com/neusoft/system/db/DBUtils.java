@@ -28,6 +28,7 @@ public class DBUtils
 	{
 		try 
 		{
+			System.out.println("1");
 			//获取资源文件解析器对象
 			ResourceBundle bundle=ResourceBundle.getBundle("DBOptions");
 			//通过解析对象,获取数据
