@@ -28,7 +28,7 @@ public class DBUtils
 	{
 		try 
 		{
-			System.out.println("去他妈的夏令营");
+			System.out.println("测试github更改333333333333");
 			System.out.println("测试github更改333333333333");
 			//获取资源文件解析器对象
 			ResourceBundle bundle=ResourceBundle.getBundle("DBOptions");
